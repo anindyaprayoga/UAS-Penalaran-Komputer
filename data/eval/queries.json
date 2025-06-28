@@ -1,0 +1,26 @@
+[
+    {
+        "query": "penipuan dana nasabah oleh teller bank",
+        "ground_truth": [
+            5
+        ]
+    },
+    {
+        "query": "penggelapan anggaran kredit koperasi",
+        "ground_truth": [
+            12
+        ]
+    },
+    {
+        "query": "korupsi direktur bank swasta",
+        "ground_truth": [
+            3
+        ]
+    },
+    {
+        "query": "pemalsuan dokumen rekening",
+        "ground_truth": [
+            8
+        ]
+    }
+]

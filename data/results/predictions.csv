@@ -1,0 +1,6 @@
+query_id,query,predicted_solution,top_5_case_ids
+1,penipuan dana nasabah oleh teller bank,memeriksa dan mengadili perkara perdata tertentu pada tingkat pertama dalam,"[100, 104, 150, 144, 141]"
+2,penggelapan anggaran kredit koperasi,menyatakan terdakwa shinta irbianti telah terbukti secara sah dan,"[100, 131, 138, 123, 29]"
+3,korupsi direktur bank swasta,memeriksa dan mengadili perkara perdata tertentu pada tingkat pertama dalam,"[117, 145, 142, 110, 128]"
+4,pemalsuan dokumen rekening,"menyatakan terdakwa focksy rapar alias focksy, terbukti","[42, 121, 79, 100, 104]"
+5,penyaluran kredit fiktif oleh manajer bank,memeriksa dan mengadili perkara perdata tertentu pada tingkat pertama dalam,"[100, 150, 141, 144, 127]"
