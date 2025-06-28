@@ -86,3 +86,7 @@ Menghitung akurasi, precision, recall, dan F1-score dari sistem retrieval.
   "ground_truth": [5]
 }
 ```
+
+## Link Colab
+Kode program tersebut di buat di google colab yang tersimpan di dalam google drive pada link berikut
+https://drive.google.com/drive/folders/1AwyPkCx54Cw3DErbN9SsiAM-_mxN6N6q?usp=sharing
